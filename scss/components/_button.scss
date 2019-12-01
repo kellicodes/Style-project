@@ -15,11 +15,11 @@
   }
   
   .default {
-    background-color: #51ddfc;
+    background-color: $color-link;
   }
   
   .error {
-    background-color: #e4757a;
+    background-color: $color-error;
   }
   
   .info {
